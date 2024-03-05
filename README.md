@@ -39,7 +39,9 @@ Predicted Bounding Boxes: Numpy arrays of the bounding boxes for each image, for
 Here is an example image from the MNISTDD-RGB dataset to give you an idea of what the dataset looks like:
 
 ![MNISTDD-RGB Sample Image](dataset.png)
-![image](https://github.com/rishabh2727/MNIST_DDRGB_ObjectDetection/assets/121647557/cbeb9bd4-9399-4f64-950b-6e6c3ca65930)
+
+![image](https://github.com/rishabh2727/MNIST_DDRGB_ObjectDetection/assets/121647557/30765ddb-f27c-4be8-9230-f6ca2dfb4fe7)
+
 
 ## References
 -  UNet Model : https://github.com/milesial/Pytorch-UNet/tree/master
